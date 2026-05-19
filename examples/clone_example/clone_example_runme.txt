@@ -1,0 +1,2 @@
+g++ -std=c++17 clone_example.cpp clone_example
+./clone_example.cpp 

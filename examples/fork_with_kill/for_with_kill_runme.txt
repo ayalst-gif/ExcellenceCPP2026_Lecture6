@@ -1,0 +1,2 @@
+g++ -std=c++17 fork_with_kill.cpp -o fork_with_kill
+./fork_with_kill
