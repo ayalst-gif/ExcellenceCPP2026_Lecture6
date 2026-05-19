@@ -1,0 +1,2 @@
+gcc dup_FD.c -o dup_FD
+./dup_FD

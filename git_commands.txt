@@ -1,0 +1,12 @@
+// get current branch
+git branch
+// switch branch
+git checkout main
+// create branch
+git checkout -b ayal_test2 
+
+// pull all changes from repo, adding all current commits after repo commits.
+git pull --rebase
+
+// when you are on branch, you can merge other branch into it:
+git merge source_branch

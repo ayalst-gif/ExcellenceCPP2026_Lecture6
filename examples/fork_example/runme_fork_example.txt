@@ -1,0 +1,4 @@
+g++ print_triangle.c -o print_triangle
+g++ print_rectangle.c -o print_rectangle
+g++ fork_demo.c -o fork_demo
+./fork_demo
